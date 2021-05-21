@@ -22,10 +22,10 @@ body{
 }
 .name:hover {
   color: cyan;
-  animation-name: rubberBand;
+  animation-name: bounceEffect;
 }
 
-@keyframes rubberBand {
+@keyframes bounceEffect {
   from {
     transform: scale3d(1, 1, 1);
   }
