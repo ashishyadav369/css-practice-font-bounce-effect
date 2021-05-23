@@ -4,7 +4,7 @@ body{
 }
 .name {
   color: white;
-  margin-right: -2px;
+  margin-right: -4px;
   font-family: 'Cardo', serif;
   font-size: 100px;
   animation-duration: 1s;
